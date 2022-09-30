@@ -1,2 +1,3 @@
 Hi its a local side file.
-I change the server side and add some extra points.
+I change the server side and add some extra points using pull command.
+I now using fectch command pass the server side data in to local side
